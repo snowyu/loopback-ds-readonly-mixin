@@ -32,8 +32,6 @@
   },
   "methods": {},
   "mixins": {
-    "ReadOnly": {
-      "status": true
-    }
+    "ReadOnly": ["status"]
   }
 }
