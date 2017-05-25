@@ -28,8 +28,7 @@
   "methods": {},
   "mixins": {
     "ReadOnly": {
-      "status": true,
-      "role": true
+      "fields": ["status", "role"]
     }
   }
 }
